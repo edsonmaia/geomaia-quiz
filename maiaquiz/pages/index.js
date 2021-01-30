@@ -84,7 +84,7 @@ export default function Home() {
         <Footer />
 
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/edsonmaia" />
+      <GitHubCorner projectUrl="https://github.com/edsonmaia/geomaia-quiz" />
     </QuizBackground>
   );
 }
